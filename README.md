@@ -105,16 +105,11 @@ Mocking up G2ATO web app with <b>Vitesse</b><sup><em>(speed)</em></sup><br>
   - [i18n Ally](https://marketplace.visualstudio.com/items?itemName=lokalise.i18n-ally) - All in one i18n support
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-## Variations
-
-As this template is strongly opinionated, the following provides a curated list for community-maintained variations with different preferences and feature sets. Check them out as well. PR to add yours is also welcome!
-
 ###### Official Original Vitesse
 
-- [vitesse-original](https://github.com/antfu) - Original version of Vitesse
+- [vitesse-original](https://github.com/antfu/vitesse) - Original version of Vitesse (<<<<====)
 > Vitesse requires Node >=14.18
 
-### GitHub Template
+### GitHub Template (from Vitesse)
 
 [Create a repo from that template on GitHub](https://github.com/antfu/vitesse/generate).
-
